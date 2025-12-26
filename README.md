@@ -27,19 +27,24 @@ It allows users to **add**, **mark as complete**, and **delete** tasks. This pro
 
 ```bash
 git clone https://github.com/raza-jaun-code/todo-react.git
-Navigate into the project directory:
+```
 
-bash
-Copy code
+2. Navigate into the project directory:
+
+```bash
 cd todo-app
-Install dependencies:
+```
 
-bash
-Copy code
+3. Install dependencies:
+
+```bash
 npm install
-Run the development server:
+```
 
-bash
-Copy code
+4. Run the development server:
+
+```bash
 npm run dev
+```
+
 Open your browser at http://localhost:5173 (Vite default port).
